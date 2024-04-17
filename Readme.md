@@ -1,0 +1,3 @@
+Write a code for a Converter app in which there should be three conversion done. First change Celsius to Fahrenheit. Second change kgs to pounds. And third change feets to centimetres.
+
+Use JavaScript functions to create this app. The function call be to a single function called converter(), in which you pass the parameter of Celsius, Kilograms and feets. This function should internally call three helper functions to convert these thing and console log it. All three helper functions should be different type - one should be function decleration, other should be function expression and the last one arrow function.
